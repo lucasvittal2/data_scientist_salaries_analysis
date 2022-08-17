@@ -8,10 +8,10 @@ from https://github.com/yiuhyuk/ds_salary_h1b/blob/master/h1b_salary.ipynb that 
 Most data I could get was from USA, then this analysis is detailed for USA country. I could get a dataset about other contries, not so lage and detailed as dataset about USA country,
 but we perform some analysis about data scientis salaries in others contries as well.
 
-#Follow the question I have tried to ask:
+# Follow the question I have tried to ask:
 
 
-###in 2021 at USA:
+### in 2021 at USA:
 
 
 	How is it distributed range salaries per data science job role in 2021 at USA?  what about the average monthly salaries?
@@ -33,7 +33,7 @@ but we perform some analysis about data scientis salaries in others contries as 
 	what's the most required skills er job role in 2021 at USA ? 
 	what's  the most required skills for data job roles in 2021 at USA ?
 
-###contries in general:
+### contries in general:
 	What's tbe data scientist salary  evolution during the period 2014 to 2022?
 
 	What is the average salary distribution per contry in 2020-2021?
@@ -42,7 +42,7 @@ but we perform some analysis about data scientis salaries in others contries as 
 		tip: Consider the 0,50,100 ratio categories associated with each job role, thus you gonna get only 3 graphs.
 	
 	
-##Analysis step:
+## Analysis step:
 
 	ask -> Build the questions and organize them in the as concese way as possible
 	prepare -> cleaning the database
@@ -52,7 +52,8 @@ but we perform some analysis about data scientis salaries in others contries as 
 	act ->  In accordance the scenario found,decide which company type ,location I'll work, whick salary I will expected and in which skill I'll invest to be a data scintist.
 	
 
-##data sources
+## data sources:
+
 	https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor/metadata
 	https://github.com/yiuhyuk/ds_salary_h1b/blob/master/
 	https://h1bdata.info/index.php?em=&job=data+scientist&city=brazil&year=all+years

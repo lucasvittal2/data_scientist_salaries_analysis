@@ -50,3 +50,10 @@ but we perform some analysis about data scientis salaries in others contries as 
 	analysis -> get the data insights and conclusions
 	share -> write an article presenting the your analysis and visuals
 	act ->  In accordance the scenario found,decide which company type ,location I'll work, whick salary I will expected and in which skill I'll invest to be a data scintist.
+	
+
+##data sources
+	https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor/metadata
+	https://github.com/yiuhyuk/ds_salary_h1b/blob/master/
+	https://h1bdata.info/index.php?em=&job=data+scientist&city=brazil&year=all+years
+	https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries

@@ -28,7 +28,7 @@ in 2021 at USA:
 	in 2021, what's the relationship of average salaries and compay size ?( glassdoor + h1base can help)
 
 
-	what's the relationship between the employeer rating satisfaction and the average and companies revenue?
+	what's the relationship between the employeer rating satisfaction and the average and companies revenue? ( get rid of non evaluated companies Ratins = -1 on this analysis)
 
 
 	what's the most required skills er job role in 2021 at USA ? 

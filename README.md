@@ -1,4 +1,4 @@
-# data_scientist_salaries_analysis
+# data_scientist_salaries_analysis 🧑‍🔬 💰
 
 I'm currently finishing Google data Analytics courses from coursera. As a last ativity was proposed a case study  to perform an analysis about something my interest. 
 Then I though Why not a analysis about data science salaries? Then it results in the analysis I have done below:

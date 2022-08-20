@@ -1,0 +1,743 @@
+,Revenue,Size
+0,$50 to $100 million (USD),501 - 1000 
+1,$2 to $5 billion (USD),10000+ 
+2,$100 to $500 million (USD),501 - 1000 
+3,$500 million to $1 billion (USD),1001 - 5000 
+4,Unknown / Non-Applicable,51 - 200 
+5,$1 to $2 billion (USD),201 - 500 
+6,Unknown / Non-Applicable,501 - 1000 
+7,$25 to $50 million (USD),201 - 500 
+8,$500 million to $1 billion (USD),10000+ 
+9,$100 to $500 million (USD),51 - 200 
+10,$1 to $2 billion (USD),501 - 1000 
+11,$1 to $2 billion (USD),5001 - 10000 
+12,$10+ billion (USD),10000+ 
+13,Unknown / Non-Applicable,201 - 500 
+14,$10+ billion (USD),10000+ 
+15,Unknown / Non-Applicable,1001 - 5000 
+16,$1 to $5 million (USD),51 - 200 
+17,Unknown / Non-Applicable,201 - 500 
+18,Unknown / Non-Applicable,51 - 200 
+19,$500 million to $1 billion (USD),501 - 1000 
+20,Unknown / Non-Applicable,201 - 500 
+21,Unknown / Non-Applicable,201 - 500 
+22,Unknown / Non-Applicable,501 - 1000 
+23,$10 to $25 million (USD),51 - 200 
+24,$100 to $500 million (USD),501 - 1000 
+25,$10+ billion (USD),10000+ 
+26,$100 to $500 million (USD),1001 - 5000 
+27,$5 to $10 billion (USD),5001 - 10000 
+28,$10+ billion (USD),10000+ 
+29,$100 to $500 million (USD),501 - 1000 
+30,$500 million to $1 billion (USD),1001 - 5000 
+31,$500 million to $1 billion (USD),1001 - 5000 
+32,$10+ billion (USD),10000+ 
+33,$2 to $5 billion (USD),5001 - 10000 
+34,Unknown / Non-Applicable,201 - 500 
+35,Unknown / Non-Applicable,201 - 500 
+36,$1 to $2 billion (USD),1001 - 5000 
+37,$100 to $500 million (USD),201 - 500 
+38,$1 to $2 billion (USD),5001 - 10000 
+39,$100 to $500 million (USD),201 - 500 
+40,$50 to $100 million (USD),201 - 500 
+41,Less than $1 million (USD),1 - 50 
+42,Unknown / Non-Applicable,51 - 200 
+43,$2 to $5 billion (USD),5001 - 10000 
+44,$2 to $5 billion (USD),1001 - 5000 
+45,Unknown / Non-Applicable,unknown
+46,$10+ billion (USD),10000+ 
+47,$2 to $5 billion (USD),5001 - 10000 
+48,$100 to $500 million (USD),501 - 1000 
+49,$10+ billion (USD),10000+ 
+50,Unknown / Non-Applicable,501 - 1000 
+51,$10+ billion (USD),10000+ 
+52,$100 to $500 million (USD),1001 - 5000 
+53,$10+ billion (USD),10000+ 
+54,$10+ billion (USD),10000+ 
+55,$1 to $2 billion (USD),5001 - 10000 
+56,Unknown / Non-Applicable,501 - 1000 
+57,Unknown / Non-Applicable,51 - 200 
+58,Unknown / Non-Applicable,501 - 1000 
+59,$1 to $2 billion (USD),201 - 500 
+60,Unknown / Non-Applicable,201 - 500 
+61,$10 to $25 million (USD),201 - 500 
+62,$50 to $100 million (USD),501 - 1000 
+63,$500 million to $1 billion (USD),1001 - 5000 
+64,$5 to $10 billion (USD),10000+ 
+65,$1 to $5 million (USD),51 - 200 
+66,$25 to $50 million (USD),51 - 200 
+67,$100 to $500 million (USD),201 - 500 
+68,$5 to $10 million (USD),1 - 50 
+69,Unknown / Non-Applicable,10000+ 
+70,Unknown / Non-Applicable,1 - 50 
+71,$10+ billion (USD),10000+ 
+72,$50 to $100 million (USD),501 - 1000 
+73,$100 to $500 million (USD),501 - 1000 
+74,$1 to $2 billion (USD),1001 - 5000 
+75,Unknown / Non-Applicable,10000+ 
+76,Unknown / Non-Applicable,201 - 500 
+77,$10 to $25 million (USD),51 - 200 
+78,$1 to $2 billion (USD),1001 - 5000 
+79,$500 million to $1 billion (USD),10000+ 
+80,$1 to $5 million (USD),51 - 200 
+81,$25 to $50 million (USD),201 - 500 
+82,$1 to $2 billion (USD),5001 - 10000 
+83,$10 to $25 million (USD),51 - 200 
+84,$50 to $100 million (USD),201 - 500 
+85,$100 to $500 million (USD),501 - 1000 
+86,$10+ billion (USD),10000+ 
+87,$25 to $50 million (USD),201 - 500 
+88,$100 to $500 million (USD),501 - 1000 
+89,$25 to $50 million (USD),51 - 200 
+90,Unknown / Non-Applicable,51 - 200 
+91,$100 to $500 million (USD),201 - 500 
+92,$1 to $2 billion (USD),5001 - 10000 
+93,$10 to $25 million (USD),51 - 200 
+94,$100 to $500 million (USD),1001 - 5000 
+95,$10+ billion (USD),10000+ 
+96,$1 to $2 billion (USD),5001 - 10000 
+97,$100 to $500 million (USD),501 - 1000 
+98,$2 to $5 billion (USD),1001 - 5000 
+99,Unknown / Non-Applicable,1 - 50 
+100,Unknown / Non-Applicable,51 - 200 
+101,Unknown / Non-Applicable,501 - 1000 
+102,Unknown / Non-Applicable,1001 - 5000 
+103,Unknown / Non-Applicable,1001 - 5000 
+104,$100 to $500 million (USD),1001 - 5000 
+105,$5 to $10 billion (USD),10000+ 
+106,Unknown / Non-Applicable,201 - 500 
+107,$25 to $50 million (USD),201 - 500 
+108,Unknown / Non-Applicable,1001 - 5000 
+109,$100 to $500 million (USD),201 - 500 
+110,Unknown / Non-Applicable,201 - 500 
+111,$10+ billion (USD),10000+ 
+112,$100 to $500 million (USD),51 - 200 
+113,Unknown / Non-Applicable,51 - 200 
+114,$2 to $5 billion (USD),5001 - 10000 
+115,$50 to $100 million (USD),501 - 1000 
+116,Unknown / Non-Applicable,201 - 500 
+117,$25 to $50 million (USD),51 - 200 
+118,Unknown / Non-Applicable,1001 - 5000 
+119,$1 to $2 billion (USD),1001 - 5000 
+120,Unknown / Non-Applicable,201 - 500 
+121,$500 million to $1 billion (USD),1001 - 5000 
+122,Unknown / Non-Applicable,51 - 200 
+123,$2 to $5 billion (USD),1001 - 5000 
+124,$100 to $500 million (USD),501 - 1000 
+125,$25 to $50 million (USD),51 - 200 
+126,$100 to $500 million (USD),1001 - 5000 
+127,Unknown / Non-Applicable,501 - 1000 
+128,$10+ billion (USD),10000+ 
+129,$50 to $100 million (USD),201 - 500 
+130,$100 to $500 million (USD),501 - 1000 
+131,$100 to $500 million (USD),1001 - 5000 
+132,$1 to $2 billion (USD),1001 - 5000 
+133,$500 million to $1 billion (USD),1001 - 5000 
+134,Unknown / Non-Applicable,1 - 50 
+135,$100 to $500 million (USD),1001 - 5000 
+136,$1 to $2 billion (USD),5001 - 10000 
+137,Unknown / Non-Applicable,201 - 500 
+138,Unknown / Non-Applicable,51 - 200 
+139,$10 to $25 million (USD),51 - 200 
+140,Unknown / Non-Applicable,201 - 500 
+141,Unknown / Non-Applicable,10000+ 
+142,Unknown / Non-Applicable,51 - 200 
+143,Unknown / Non-Applicable,501 - 1000 
+144,$500 million to $1 billion (USD),1001 - 5000 
+145,$2 to $5 billion (USD),10000+ 
+146,Unknown / Non-Applicable,201 - 500 
+147,$100 to $500 million (USD),201 - 500 
+148,$5 to $10 billion (USD),5001 - 10000 
+149,$500 million to $1 billion (USD),1001 - 5000 
+150,$100 to $500 million (USD),501 - 1000 
+151,Unknown / Non-Applicable,51 - 200 
+152,Unknown / Non-Applicable,51 - 200 
+153,$2 to $5 billion (USD),1001 - 5000 
+154,$10+ billion (USD),5001 - 10000 
+155,$10+ billion (USD),10000+ 
+156,$2 to $5 billion (USD),5001 - 10000 
+157,$10+ billion (USD),10000+ 
+158,$500 million to $1 billion (USD),501 - 1000 
+159,$10+ billion (USD),10000+ 
+160,Unknown / Non-Applicable,201 - 500 
+161,Unknown / Non-Applicable,51 - 200 
+162,Unknown / Non-Applicable,10000+ 
+163,$1 to $2 billion (USD),1001 - 5000 
+164,$25 to $50 million (USD),201 - 500 
+165,Unknown / Non-Applicable,5001 - 10000 
+166,$50 to $100 million (USD),51 - 200 
+167,$100 to $500 million (USD),201 - 500 
+168,$2 to $5 billion (USD),5001 - 10000 
+169,Unknown / Non-Applicable,201 - 500 
+170,$25 to $50 million (USD),51 - 200 
+171,$100 to $500 million (USD),51 - 200 
+172,$10+ billion (USD),10000+ 
+173,Unknown / Non-Applicable,201 - 500 
+174,$10+ billion (USD),10000+ 
+175,$10 to $25 million (USD),1001 - 5000 
+176,$5 to $10 million (USD),51 - 200 
+177,$100 to $500 million (USD),1001 - 5000 
+178,$10+ billion (USD),10000+ 
+179,$1 to $2 billion (USD),1001 - 5000 
+180,$1 to $2 billion (USD),501 - 1000 
+181,Unknown / Non-Applicable,501 - 1000 
+182,$500 million to $1 billion (USD),1001 - 5000 
+183,$50 to $100 million (USD),51 - 200 
+184,$25 to $50 million (USD),51 - 200 
+185,$5 to $10 billion (USD),5001 - 10000 
+186,Unknown / Non-Applicable,201 - 500 
+187,Unknown / Non-Applicable,501 - 1000 
+188,$1 to $5 million (USD),51 - 200 
+189,Unknown / Non-Applicable,501 - 1000 
+190,$500 million to $1 billion (USD),10000+ 
+191,$5 to $10 million (USD),51 - 200 
+192,$100 to $500 million (USD),201 - 500 
+193,$10 to $25 million (USD),201 - 500 
+194,$500 million to $1 billion (USD),10000+ 
+195,$50 to $100 million (USD),51 - 200 
+196,$100 to $500 million (USD),1001 - 5000 
+197,$50 to $100 million (USD),1001 - 5000 
+198,$100 to $500 million (USD),501 - 1000 
+199,Unknown / Non-Applicable,501 - 1000 
+200,$500 million to $1 billion (USD),501 - 1000 
+201,$10+ billion (USD),10000+ 
+202,$100 to $500 million (USD),1001 - 5000 
+203,Unknown / Non-Applicable,501 - 1000 
+204,$25 to $50 million (USD),201 - 500 
+205,$2 to $5 billion (USD),1001 - 5000 
+206,Unknown / Non-Applicable,501 - 1000 
+207,$10+ billion (USD),10000+ 
+208,$1 to $2 billion (USD),1001 - 5000 
+209,$2 to $5 billion (USD),1001 - 5000 
+210,Unknown / Non-Applicable,10000+ 
+211,Unknown / Non-Applicable,201 - 500 
+212,$100 to $500 million (USD),501 - 1000 
+213,$2 to $5 billion (USD),1001 - 5000 
+214,Unknown / Non-Applicable,51 - 200 
+215,$10 to $25 million (USD),51 - 200 
+216,$10+ billion (USD),1001 - 5000 
+217,$1 to $2 billion (USD),5001 - 10000 
+218,Unknown / Non-Applicable,1001 - 5000 
+219,$10+ billion (USD),5001 - 10000 
+220,$10+ billion (USD),10000+ 
+221,$2 to $5 billion (USD),5001 - 10000 
+222,$50 to $100 million (USD),501 - 1000 
+223,$10+ billion (USD),10000+ 
+224,Unknown / Non-Applicable,51 - 200 
+225,$50 to $100 million (USD),201 - 500 
+226,$10+ billion (USD),10000+ 
+227,$500 million to $1 billion (USD),501 - 1000 
+228,Unknown / Non-Applicable,201 - 500 
+229,$25 to $50 million (USD),201 - 500 
+230,Unknown / Non-Applicable,10000+ 
+231,$10+ billion (USD),10000+ 
+232,$10 to $25 million (USD),51 - 200 
+233,$50 to $100 million (USD),201 - 500 
+234,$1 to $2 billion (USD),1001 - 5000 
+235,$100 to $500 million (USD),1001 - 5000 
+236,$100 to $500 million (USD),501 - 1000 
+237,$25 to $50 million (USD),201 - 500 
+238,$1 to $2 billion (USD),1001 - 5000 
+239,Unknown / Non-Applicable,201 - 500 
+240,$100 to $500 million (USD),1001 - 5000 
+241,Unknown / Non-Applicable,1 - 50 
+242,$50 to $100 million (USD),51 - 200 
+243,$10+ billion (USD),10000+ 
+244,Unknown / Non-Applicable,501 - 1000 
+245,Unknown / Non-Applicable,1001 - 5000 
+246,Unknown / Non-Applicable,5001 - 10000 
+247,Unknown / Non-Applicable,501 - 1000 
+248,$50 to $100 million (USD),201 - 500 
+249,$2 to $5 billion (USD),1001 - 5000 
+250,$2 to $5 billion (USD),5001 - 10000 
+251,$5 to $10 billion (USD),1001 - 5000 
+252,$100 to $500 million (USD),201 - 500 
+253,Unknown / Non-Applicable,201 - 500 
+254,$10+ billion (USD),10000+ 
+255,$100 to $500 million (USD),501 - 1000 
+256,$5 to $10 million (USD),1 - 50 
+257,$25 to $50 million (USD),51 - 200 
+258,$10 to $25 million (USD),51 - 200 
+259,$10+ billion (USD),10000+ 
+260,$100 to $500 million (USD),51 - 200 
+261,$10+ billion (USD),10000+ 
+262,Unknown / Non-Applicable,201 - 500 
+263,$50 to $100 million (USD),501 - 1000 
+264,Less than $1 million (USD),1 - 50 
+265,$500 million to $1 billion (USD),5001 - 10000 
+266,$5 to $10 million (USD),51 - 200 
+267,$500 million to $1 billion (USD),1001 - 5000 
+268,$10 to $25 million (USD),1001 - 5000 
+269,$1 to $2 billion (USD),1001 - 5000 
+270,$10+ billion (USD),10000+ 
+271,$100 to $500 million (USD),1001 - 5000 
+272,$1 to $2 billion (USD),1001 - 5000 
+273,Unknown / Non-Applicable,10000+ 
+274,$5 to $10 billion (USD),501 - 1000 
+275,$1 to $2 billion (USD),501 - 1000 
+276,Unknown / Non-Applicable,501 - 1000 
+277,$500 million to $1 billion (USD),1001 - 5000 
+278,$100 to $500 million (USD),1001 - 5000 
+279,$500 million to $1 billion (USD),1001 - 5000 
+280,$100 to $500 million (USD),201 - 500 
+281,$50 to $100 million (USD),51 - 200 
+282,$100 to $500 million (USD),501 - 1000 
+283,Unknown / Non-Applicable,1 - 50 
+284,$500 million to $1 billion (USD),1001 - 5000 
+285,$25 to $50 million (USD),51 - 200 
+286,$10 to $25 million (USD),51 - 200 
+287,$50 to $100 million (USD),501 - 1000 
+288,$10+ billion (USD),10000+ 
+289,$10+ billion (USD),10000+ 
+290,$25 to $50 million (USD),201 - 500 
+291,$5 to $10 billion (USD),5001 - 10000 
+292,$10+ billion (USD),10000+ 
+293,$10+ billion (USD),5001 - 10000 
+294,Unknown / Non-Applicable,501 - 1000 
+295,$10+ billion (USD),10000+ 
+296,$1 to $2 billion (USD),5001 - 10000 
+297,$10+ billion (USD),10000+ 
+298,$2 to $5 billion (USD),5001 - 10000 
+299,$500 million to $1 billion (USD),1001 - 5000 
+300,Unknown / Non-Applicable,201 - 500 
+301,Unknown / Non-Applicable,1 - 50 
+302,$10+ billion (USD),10000+ 
+303,$2 to $5 billion (USD),5001 - 10000 
+304,$50 to $100 million (USD),501 - 1000 
+305,Unknown / Non-Applicable,201 - 500 
+306,$1 to $2 billion (USD),5001 - 10000 
+307,Unknown / Non-Applicable,501 - 1000 
+308,$500 million to $1 billion (USD),1001 - 5000 
+309,$10+ billion (USD),5001 - 10000 
+310,$1 to $5 million (USD),51 - 200 
+311,$1 to $2 billion (USD),1001 - 5000 
+312,$500 million to $1 billion (USD),10000+ 
+313,$100 to $500 million (USD),201 - 500 
+314,Unknown / Non-Applicable,201 - 500 
+315,$50 to $100 million (USD),201 - 500 
+316,$5 to $10 million (USD),51 - 200 
+317,Unknown / Non-Applicable,1 - 50 
+318,Unknown / Non-Applicable,501 - 1000 
+319,Unknown / Non-Applicable,1001 - 5000 
+320,Unknown / Non-Applicable,1001 - 5000 
+321,Unknown / Non-Applicable,51 - 200 
+322,Unknown / Non-Applicable,501 - 1000 
+323,$500 million to $1 billion (USD),10000+ 
+324,$100 to $500 million (USD),501 - 1000 
+325,$10+ billion (USD),5001 - 10000 
+326,$1 to $2 billion (USD),1001 - 5000 
+327,Unknown / Non-Applicable,201 - 500 
+328,$10 to $25 million (USD),201 - 500 
+329,$5 to $10 billion (USD),10000+ 
+330,$50 to $100 million (USD),51 - 200 
+331,$10+ billion (USD),5001 - 10000 
+332,$10+ billion (USD),5001 - 10000 
+333,$10+ billion (USD),10000+ 
+334,Unknown / Non-Applicable,501 - 1000 
+335,$100 to $500 million (USD),1001 - 5000 
+336,$1 to $2 billion (USD),1001 - 5000 
+337,$50 to $100 million (USD),1001 - 5000 
+338,$500 million to $1 billion (USD),501 - 1000 
+339,$100 to $500 million (USD),501 - 1000 
+340,Unknown / Non-Applicable,501 - 1000 
+341,$25 to $50 million (USD),201 - 500 
+342,$10+ billion (USD),10000+ 
+343,Unknown / Non-Applicable,501 - 1000 
+344,$50 to $100 million (USD),201 - 500 
+345,$100 to $500 million (USD),501 - 1000 
+346,$500 million to $1 billion (USD),501 - 1000 
+347,$10+ billion (USD),10000+ 
+348,Unknown / Non-Applicable,51 - 200 
+349,$10+ billion (USD),10000+ 
+350,$500 million to $1 billion (USD),501 - 1000 
+351,Unknown / Non-Applicable,501 - 1000 
+352,$1 to $2 billion (USD),1001 - 5000 
+353,$25 to $50 million (USD),201 - 500 
+354,$10+ billion (USD),10000+ 
+355,Unknown / Non-Applicable,201 - 500 
+356,$25 to $50 million (USD),201 - 500 
+357,$100 to $500 million (USD),1001 - 5000 
+358,$10+ billion (USD),5001 - 10000 
+359,$500 million to $1 billion (USD),501 - 1000 
+360,$25 to $50 million (USD),51 - 200 
+361,$1 to $2 billion (USD),5001 - 10000 
+362,$1 to $2 billion (USD),5001 - 10000 
+363,Unknown / Non-Applicable,1 - 50 
+364,$10+ billion (USD),5001 - 10000 
+365,$50 to $100 million (USD),501 - 1000 
+366,$25 to $50 million (USD),51 - 200 
+367,Unknown / Non-Applicable,1001 - 5000 
+368,Unknown / Non-Applicable,1001 - 5000 
+369,$100 to $500 million (USD),1001 - 5000 
+370,Unknown / Non-Applicable,unknown
+371,Unknown / Non-Applicable,501 - 1000 
+372,Unknown / Non-Applicable,501 - 1000 
+373,Unknown / Non-Applicable,unknown
+374,$10+ billion (USD),5001 - 10000 
+375,$10+ billion (USD),10000+ 
+376,$1 to $2 billion (USD),1001 - 5000 
+377,$50 to $100 million (USD),51 - 200 
+378,$2 to $5 billion (USD),1001 - 5000 
+379,$1 to $2 billion (USD),5001 - 10000 
+380,$100 to $500 million (USD),201 - 500 
+381,$10+ billion (USD),10000+ 
+382,$10 to $25 million (USD),51 - 200 
+383,$10+ billion (USD),10000+ 
+384,Unknown / Non-Applicable,501 - 1000 
+385,Unknown / Non-Applicable,51 - 200 
+386,Unknown / Non-Applicable,201 - 500 
+387,$100 to $500 million (USD),501 - 1000 
+388,Unknown / Non-Applicable,1001 - 5000 
+389,$10 to $25 million (USD),51 - 200 
+390,$100 to $500 million (USD),1001 - 5000 
+391,$50 to $100 million (USD),501 - 1000 
+392,$25 to $50 million (USD),201 - 500 
+393,$10+ billion (USD),5001 - 10000 
+394,$2 to $5 billion (USD),1001 - 5000 
+395,Unknown / Non-Applicable,1001 - 5000 
+396,$1 to $2 billion (USD),1001 - 5000 
+397,$5 to $10 billion (USD),10000+ 
+398,$10+ billion (USD),10000+ 
+399,$2 to $5 billion (USD),1001 - 5000 
+400,$100 to $500 million (USD),201 - 500 
+401,$500 million to $1 billion (USD),1001 - 5000 
+402,$100 to $500 million (USD),501 - 1000 
+403,Unknown / Non-Applicable,201 - 500 
+404,Unknown / Non-Applicable,unknown
+405,$5 to $10 billion (USD),5001 - 10000 
+406,$1 to $5 million (USD),51 - 200 
+407,$500 million to $1 billion (USD),1001 - 5000 
+408,$10+ billion (USD),10000+ 
+409,$2 to $5 billion (USD),5001 - 10000 
+410,$10+ billion (USD),10000+ 
+411,$500 million to $1 billion (USD),1001 - 5000 
+412,Unknown / Non-Applicable,501 - 1000 
+413,$10+ billion (USD),5001 - 10000 
+414,$10+ billion (USD),10000+ 
+415,$500 million to $1 billion (USD),1001 - 5000 
+416,Unknown / Non-Applicable,1001 - 5000 
+417,$100 to $500 million (USD),1001 - 5000 
+418,$10 to $25 million (USD),51 - 200 
+419,$10 to $25 million (USD),201 - 500 
+420,$2 to $5 billion (USD),1001 - 5000 
+421,$10+ billion (USD),5001 - 10000 
+422,$1 to $2 billion (USD),5001 - 10000 
+423,Unknown / Non-Applicable,51 - 200 
+424,$10 to $25 million (USD),51 - 200 
+425,$10+ billion (USD),5001 - 10000 
+426,$500 million to $1 billion (USD),1001 - 5000 
+427,$1 to $5 million (USD),51 - 200 
+428,$10+ billion (USD),10000+ 
+429,Unknown / Non-Applicable,501 - 1000 
+430,Unknown / Non-Applicable,51 - 200 
+431,$1 to $2 billion (USD),1001 - 5000 
+432,$500 million to $1 billion (USD),10000+ 
+433,Unknown / Non-Applicable,10000+ 
+434,Unknown / Non-Applicable,501 - 1000 
+435,Unknown / Non-Applicable,51 - 200 
+436,$1 to $2 billion (USD),1001 - 5000 
+437,$500 million to $1 billion (USD),1001 - 5000 
+438,$5 to $10 million (USD),1 - 50 
+439,$100 to $500 million (USD),201 - 500 
+440,Unknown / Non-Applicable,201 - 500 
+441,$5 to $10 million (USD),51 - 200 
+442,$50 to $100 million (USD),201 - 500 
+443,Unknown / Non-Applicable,501 - 1000 
+444,Unknown / Non-Applicable,1001 - 5000 
+445,Unknown / Non-Applicable,1 - 50 
+446,$50 to $100 million (USD),1001 - 5000 
+447,$100 to $500 million (USD),201 - 500 
+448,Unknown / Non-Applicable,501 - 1000 
+449,Less than $1 million (USD),1 - 50 
+450,Unknown / Non-Applicable,1001 - 5000 
+451,Unknown / Non-Applicable,1 - 50 
+452,Less than $1 million (USD),1 - 50 
+453,$10+ billion (USD),10000+ 
+454,$2 to $5 billion (USD),10000+ 
+455,$2 to $5 billion (USD),10000+ 
+456,Unknown / Non-Applicable,unknown
+457,Unknown / Non-Applicable,51 - 200 
+458,$5 to $10 million (USD),51 - 200 
+459,Unknown / Non-Applicable,1 - 50 
+460,$100 to $500 million (USD),201 - 500 
+461,$50 to $100 million (USD),201 - 500 
+462,$10+ billion (USD),10000+ 
+463,$100 to $500 million (USD),201 - 500 
+464,Unknown / Non-Applicable,501 - 1000 
+465,$5 to $10 million (USD),51 - 200 
+466,$500 million to $1 billion (USD),1001 - 5000 
+467,$500 million to $1 billion (USD),10000+ 
+468,$100 to $500 million (USD),501 - 1000 
+469,Unknown / Non-Applicable,10000+ 
+470,$10+ billion (USD),5001 - 10000 
+471,$10 to $25 million (USD),201 - 500 
+472,$10+ billion (USD),10000+ 
+473,$10+ billion (USD),10000+ 
+474,Unknown / Non-Applicable,201 - 500 
+475,$5 to $10 billion (USD),10000+ 
+476,$50 to $100 million (USD),51 - 200 
+477,$100 to $500 million (USD),1001 - 5000 
+478,$10+ billion (USD),5001 - 10000 
+479,$10+ billion (USD),10000+ 
+480,$10+ billion (USD),5001 - 10000 
+481,$10 to $25 million (USD),1 - 50 
+482,Unknown / Non-Applicable,501 - 1000 
+483,Unknown / Non-Applicable,51 - 200 
+484,$100 to $500 million (USD),501 - 1000 
+485,$10+ billion (USD),10000+ 
+486,$25 to $50 million (USD),201 - 500 
+487,Unknown / Non-Applicable,1 - 50 
+488,$1 to $2 billion (USD),1001 - 5000 
+489,$500 million to $1 billion (USD),501 - 1000 
+490,$100 to $500 million (USD),1001 - 5000 
+491,$1 to $2 billion (USD),501 - 1000 
+492,$50 to $100 million (USD),1001 - 5000 
+493,$100 to $500 million (USD),501 - 1000 
+494,$10+ billion (USD),10000+ 
+495,Unknown / Non-Applicable,501 - 1000 
+496,Unknown / Non-Applicable,1001 - 5000 
+497,$10+ billion (USD),10000+ 
+498,$10+ billion (USD),10000+ 
+499,$1 to $2 billion (USD),5001 - 10000 
+500,Unknown / Non-Applicable,501 - 1000 
+501,$25 to $50 million (USD),201 - 500 
+502,Unknown / Non-Applicable,501 - 1000 
+503,$10+ billion (USD),10000+ 
+504,Unknown / Non-Applicable,501 - 1000 
+505,Unknown / Non-Applicable,201 - 500 
+506,$50 to $100 million (USD),201 - 500 
+507,Unknown / Non-Applicable,501 - 1000 
+508,Unknown / Non-Applicable,201 - 500 
+509,$100 to $500 million (USD),501 - 1000 
+510,Unknown / Non-Applicable,201 - 500 
+511,Unknown / Non-Applicable,10000+ 
+512,$10+ billion (USD),1001 - 5000 
+513,$10+ billion (USD),10000+ 
+514,Unknown / Non-Applicable,51 - 200 
+515,$2 to $5 billion (USD),1001 - 5000 
+516,$10 to $25 million (USD),201 - 500 
+517,$500 million to $1 billion (USD),501 - 1000 
+518,$5 to $10 billion (USD),10000+ 
+519,$10+ billion (USD),10000+ 
+520,$10+ billion (USD),10000+ 
+521,$10+ billion (USD),10000+ 
+522,$1 to $2 billion (USD),5001 - 10000 
+523,$500 million to $1 billion (USD),501 - 1000 
+524,Unknown / Non-Applicable,501 - 1000 
+525,Unknown / Non-Applicable,1001 - 5000 
+526,$25 to $50 million (USD),201 - 500 
+527,$1 to $2 billion (USD),1001 - 5000 
+528,$10+ billion (USD),10000+ 
+529,Unknown / Non-Applicable,1001 - 5000 
+530,$10+ billion (USD),10000+ 
+531,Unknown / Non-Applicable,201 - 500 
+532,$25 to $50 million (USD),201 - 500 
+533,$100 to $500 million (USD),1001 - 5000 
+534,$10+ billion (USD),5001 - 10000 
+535,$500 million to $1 billion (USD),501 - 1000 
+536,$5 to $10 billion (USD),5001 - 10000 
+537,$25 to $50 million (USD),51 - 200 
+538,$100 to $500 million (USD),1001 - 5000 
+539,$2 to $5 billion (USD),1001 - 5000 
+540,$1 to $2 billion (USD),5001 - 10000 
+541,$1 to $2 billion (USD),5001 - 10000 
+542,Unknown / Non-Applicable,1 - 50 
+543,$10+ billion (USD),5001 - 10000 
+544,$50 to $100 million (USD),501 - 1000 
+545,Unknown / Non-Applicable,1001 - 5000 
+546,$25 to $50 million (USD),51 - 200 
+547,Unknown / Non-Applicable,1001 - 5000 
+548,$25 to $50 million (USD),51 - 200 
+549,$100 to $500 million (USD),501 - 1000 
+550,$100 to $500 million (USD),1001 - 5000 
+551,Unknown / Non-Applicable,unknown
+552,Unknown / Non-Applicable,51 - 200 
+553,$2 to $5 billion (USD),10000+ 
+554,$10+ billion (USD),5001 - 10000 
+555,$10+ billion (USD),10000+ 
+556,$100 to $500 million (USD),1001 - 5000 
+557,Unknown / Non-Applicable,501 - 1000 
+558,$50 to $100 million (USD),501 - 1000 
+559,$5 to $10 million (USD),1 - 50 
+560,Unknown / Non-Applicable,10000+ 
+561,$10+ billion (USD),5001 - 10000 
+562,$500 million to $1 billion (USD),1001 - 5000 
+563,Unknown / Non-Applicable,501 - 1000 
+564,$1 to $2 billion (USD),1001 - 5000 
+565,$10+ billion (USD),10000+ 
+566,$2 to $5 billion (USD),1001 - 5000 
+567,$100 to $500 million (USD),501 - 1000 
+568,$100 to $500 million (USD),201 - 500 
+569,$100 to $500 million (USD),501 - 1000 
+570,$1 to $2 billion (USD),5001 - 10000 
+571,$10+ billion (USD),5001 - 10000 
+572,$10+ billion (USD),10000+ 
+573,$10+ billion (USD),10000+ 
+574,$10 to $25 million (USD),201 - 500 
+575,$5 to $10 million (USD),1 - 50 
+576,$10 to $25 million (USD),51 - 200 
+577,Unknown / Non-Applicable,501 - 1000 
+578,$10+ billion (USD),10000+ 
+579,$100 to $500 million (USD),201 - 500 
+580,$10+ billion (USD),10000+ 
+581,Unknown / Non-Applicable,unknown
+582,Unknown / Non-Applicable,201 - 500 
+583,Unknown / Non-Applicable,51 - 200 
+584,$50 to $100 million (USD),501 - 1000 
+585,$50 to $100 million (USD),51 - 200 
+586,Unknown / Non-Applicable,1001 - 5000 
+587,$1 to $2 billion (USD),1001 - 5000 
+588,$100 to $500 million (USD),501 - 1000 
+589,$100 to $500 million (USD),1001 - 5000 
+590,$10 to $25 million (USD),51 - 200 
+591,$25 to $50 million (USD),201 - 500 
+592,$2 to $5 billion (USD),1001 - 5000 
+593,$2 to $5 billion (USD),1001 - 5000 
+594,$50 to $100 million (USD),501 - 1000 
+595,$10 to $25 million (USD),201 - 500 
+596,$10+ billion (USD),5001 - 10000 
+597,$1 to $2 billion (USD),5001 - 10000 
+598,$2 to $5 billion (USD),5001 - 10000 
+599,$500 million to $1 billion (USD),501 - 1000 
+600,Unknown / Non-Applicable,1001 - 5000 
+601,$1 to $2 billion (USD),1001 - 5000 
+602,$5 to $10 billion (USD),10000+ 
+603,$100 to $500 million (USD),201 - 500 
+604,Unknown / Non-Applicable,501 - 1000 
+605,$500 million to $1 billion (USD),1001 - 5000 
+606,$100 to $500 million (USD),501 - 1000 
+607,Unknown / Non-Applicable,201 - 500 
+608,$10+ billion (USD),10000+ 
+609,Unknown / Non-Applicable,unknown
+610,$5 to $10 billion (USD),5001 - 10000 
+611,Unknown / Non-Applicable,501 - 1000 
+612,$1 to $5 million (USD),51 - 200 
+613,Unknown / Non-Applicable,501 - 1000 
+614,$500 million to $1 billion (USD),1001 - 5000 
+615,$50 to $100 million (USD),201 - 500 
+616,$10+ billion (USD),10000+ 
+617,$10+ billion (USD),10000+ 
+618,$2 to $5 billion (USD),5001 - 10000 
+619,$1 to $2 billion (USD),1001 - 5000 
+620,Unknown / Non-Applicable,501 - 1000 
+621,$500 million to $1 billion (USD),1001 - 5000 
+622,$10+ billion (USD),5001 - 10000 
+623,$10+ billion (USD),10000+ 
+624,$500 million to $1 billion (USD),1001 - 5000 
+625,$5 to $10 billion (USD),10000+ 
+626,$10+ billion (USD),10000+ 
+627,Unknown / Non-Applicable,1001 - 5000 
+628,$1 to $2 billion (USD),10000+ 
+629,$100 to $500 million (USD),1001 - 5000 
+630,$10 to $25 million (USD),51 - 200 
+631,$10 to $25 million (USD),201 - 500 
+632,Unknown / Non-Applicable,201 - 500 
+633,$5 to $10 million (USD),51 - 200 
+634,$2 to $5 billion (USD),1001 - 5000 
+635,Unknown / Non-Applicable,501 - 1000 
+636,$10+ billion (USD),5001 - 10000 
+637,$5 to $10 million (USD),51 - 200 
+638,Unknown / Non-Applicable,501 - 1000 
+639,$25 to $50 million (USD),501 - 1000 
+640,$500 million to $1 billion (USD),1001 - 5000 
+641,Unknown / Non-Applicable,unknown
+642,$500 million to $1 billion (USD),201 - 500 
+643,$10+ billion (USD),10000+ 
+644,$25 to $50 million (USD),201 - 500 
+645,$10 to $25 million (USD),51 - 200 
+646,$10+ billion (USD),10000+ 
+647,$50 to $100 million (USD),501 - 1000 
+648,$10+ billion (USD),10000+ 
+649,Unknown / Non-Applicable,1 - 50 
+650,$50 to $100 million (USD),501 - 1000 
+651,$500 million to $1 billion (USD),1001 - 5000 
+652,$10+ billion (USD),10000+ 
+653,$10+ billion (USD),10000+ 
+654,$10 to $25 million (USD),1 - 50 
+655,Unknown / Non-Applicable,501 - 1000 
+656,Unknown / Non-Applicable,1001 - 5000 
+657,Unknown / Non-Applicable,51 - 200 
+658,$5 to $10 million (USD),1 - 50 
+659,$100 to $500 million (USD),501 - 1000 
+660,$25 to $50 million (USD),201 - 500 
+661,Unknown / Non-Applicable,1 - 50 
+662,$1 to $2 billion (USD),1001 - 5000 
+663,$100 to $500 million (USD),1001 - 5000 
+664,$500 million to $1 billion (USD),501 - 1000 
+665,$1 to $2 billion (USD),501 - 1000 
+666,$50 to $100 million (USD),1001 - 5000 
+667,$10+ billion (USD),10000+ 
+668,$100 to $500 million (USD),501 - 1000 
+669,Unknown / Non-Applicable,501 - 1000 
+670,$10+ billion (USD),10000+ 
+671,$1 to $2 billion (USD),5001 - 10000 
+672,Unknown / Non-Applicable,201 - 500 
+673,$100 to $500 million (USD),501 - 1000 
+674,$10 to $25 million (USD),51 - 200 
+675,$25 to $50 million (USD),201 - 500 
+676,$10+ billion (USD),10000+ 
+677,Unknown / Non-Applicable,201 - 500 
+678,Unknown / Non-Applicable,501 - 1000 
+679,$50 to $100 million (USD),201 - 500 
+680,Unknown / Non-Applicable,501 - 1000 
+681,Unknown / Non-Applicable,501 - 1000 
+682,$100 to $500 million (USD),501 - 1000 
+683,Unknown / Non-Applicable,10000+ 
+684,Unknown / Non-Applicable,201 - 500 
+685,$50 to $100 million (USD),201 - 500 
+686,Unknown / Non-Applicable,10000+ 
+687,Unknown / Non-Applicable,201 - 500 
+688,$10+ billion (USD),1001 - 5000 
+689,$25 to $50 million (USD),201 - 500 
+690,$10+ billion (USD),10000+ 
+691,Unknown / Non-Applicable,51 - 200 
+692,$1 to $2 billion (USD),5001 - 10000 
+693,Unknown / Non-Applicable,51 - 200 
+694,$2 to $5 billion (USD),1001 - 5000 
+695,$500 million to $1 billion (USD),1001 - 5000 
+696,$500 million to $1 billion (USD),501 - 1000 
+697,$10 to $25 million (USD),201 - 500 
+698,$5 to $10 billion (USD),10000+ 
+699,$10+ billion (USD),10000+ 
+700,$5 to $10 million (USD),51 - 200 
+701,$10+ billion (USD),10000+ 
+702,$10+ billion (USD),10000+ 
+703,$500 million to $1 billion (USD),501 - 1000 
+704,Unknown / Non-Applicable,501 - 1000 
+705,Unknown / Non-Applicable,1001 - 5000 
+706,$25 to $50 million (USD),201 - 500 
+707,$1 to $2 billion (USD),1001 - 5000 
+708,$10+ billion (USD),10000+ 
+709,Unknown / Non-Applicable,1001 - 5000 
+710,$10+ billion (USD),10000+ 
+711,$100 to $500 million (USD),1001 - 5000 
+712,Unknown / Non-Applicable,201 - 500 
+713,$25 to $50 million (USD),201 - 500 
+714,$5 to $10 million (USD),1 - 50 
+715,$10+ billion (USD),5001 - 10000 
+716,Unknown / Non-Applicable,501 - 1000 
+717,$500 million to $1 billion (USD),501 - 1000 
+718,$25 to $50 million (USD),51 - 200 
+719,$100 to $500 million (USD),1001 - 5000 
+720,$5 to $10 billion (USD),5001 - 10000 
+721,$2 to $5 billion (USD),1001 - 5000 
+722,$1 to $2 billion (USD),5001 - 10000 
+723,$1 to $2 billion (USD),5001 - 10000 
+724,Unknown / Non-Applicable,1 - 50 
+725,$10+ billion (USD),5001 - 10000 
+726,$50 to $100 million (USD),501 - 1000 
+727,$25 to $50 million (USD),51 - 200 
+728,Unknown / Non-Applicable,1001 - 5000 
+729,Unknown / Non-Applicable,1001 - 5000 
+730,Unknown / Non-Applicable,unknown
+731,$100 to $500 million (USD),1001 - 5000 
+732,Unknown / Non-Applicable,1 - 50 
+733,Unknown / Non-Applicable,51 - 200 
+734,$10+ billion (USD),5001 - 10000 
+735,$100 to $500 million (USD),201 - 500 
+736,$2 to $5 billion (USD),10000+ 
+737,$10+ billion (USD),10000+ 
+738,$100 to $500 million (USD),1001 - 5000 
+739,Unknown / Non-Applicable,501 - 1000 
+740,$5 to $10 million (USD),1 - 50 
+741,$50 to $100 million (USD),501 - 1000 

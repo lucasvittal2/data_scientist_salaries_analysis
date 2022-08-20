@@ -51,3 +51,13 @@ Analysis step:
 	analysis -> get the data insights and conclusions
 	share -> write an article presenting the your analysis and visuals
 	act ->  In accordance the scenario found,decide which company type ,location I'll work, whick salary I will expected and in which skill I'll invest to be a data scintist.
+	
+	
+	ask
+    prepare 
+    process 
+    analysis
+    share
+    act
+	
+	

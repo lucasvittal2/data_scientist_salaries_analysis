@@ -38,8 +38,7 @@ but we perform some analysis about data scientis salaries in others contries as 
 
 	What is the average salary distribution per contry in 2020-2021?
 
-	In 2020-2021 period, what' the remote ration per job role distrubution?
-		tip: Consider the 0,50,100 ratio categories associated with each job role, thus you gonna get only 3 graphs.
+	What's the average Data Scientis Salry by each company? Who pays more in average?
 	
 	
 ## Analysis step:
